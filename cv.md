@@ -18,4 +18,35 @@ I didn't have work experiance in any coding company, but I countered some course
  - Sociability
  - Non - conflict
  - Responsibility 
+  # Code Examples
+ Computition of student's grade:
  
+```Javascript
+const finalGrade = (exam, projects) => {
+    if (exam > 90 || projects > 10) {
+        return 100;
+    }else if (exam > 75 && projects >= 5) {
+            return 90;
+    }else if (exam > 50 && projects >= 2) {
+        return 75;
+    } else {
+             return 0;
+           }
+}
+```
+Factorial function:
+```Javascript 
+const sequenceSum = (begin, end) => {
+  // BEGIN (write your solution here)
+if (begin === end) {
+    return begin;
+} else if (begin > end) {
+        return NaN;
+} else {
+            return begin + sequenceSum(begin + 1,end)
+        }
+    }
+    
+```
+
+
