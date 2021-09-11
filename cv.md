@@ -56,6 +56,13 @@ if (begin === end) {
 - Stepik "Hexlet: Введение в программирование (JavaScript ES6)
 - Stepik "Веб разработка для начинающих"
 - Practice: [HTML and CSS training project](https://github.com/SantAlice/Houston_project)
+###Education 
+- Sololearn ["Python for beginners"](https://www.sololearn.com/learning/1157)
+- Sololearn ["JavaScript"](https://www.sololearn.com/learning/1024)
+- Sololearn ["HTML"](https://www.sololearn.com/learning/1014)
+- Stepik ["Программиррование на Python"](https://stepik.org/course/67/syllabus)
+- Stepik ["Hexlet: Введение в программирование (JavaScript ES6)](https://stepik.org/course/13929/syllabus)
+- Stepik ["Веб разработка для начинающих"](https://stepik.org/course/38218/syllabus)
 
 
 
