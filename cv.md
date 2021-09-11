@@ -63,6 +63,9 @@ if (begin === end) {
 - Stepik ["Программиррование на Python"](https://stepik.org/course/67/syllabus)
 - Stepik ["Hexlet: Введение в программирование (JavaScript ES6)](https://stepik.org/course/13929/syllabus)
 - Stepik ["Веб разработка для начинающих"](https://stepik.org/course/38218/syllabus)
+###My english skills and experiance
+
+My english level is B2. I'm graduated from College of Language "Lingua", also in 2015 I completed an English course with native english speakers, there was grammar practice, communicative practice and historical practice.
 
 
 
