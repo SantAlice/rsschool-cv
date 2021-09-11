@@ -48,5 +48,14 @@ if (begin === end) {
     }
     
 ```
+###Work Experiance
+- Sololearn "Python for beginners"
+- Sololearn "JavaScript"
+- Sololearn "HTML"
+- Stepik "Программиррование на Python"
+- Stepik "Hexlet: Введение в программирование (JavaScript ES6)
+- Stepik "Веб разработка для начинающих"
+- Practice: [HTML and CSS training project](https://github.com/SantAlice/Houston_project)
+
 
 
