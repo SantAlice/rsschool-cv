@@ -1,8 +1,6 @@
-header {
-    float: left;
-    width: 90%;
-    height: 40%;
-}
-.contacts {
-    display: inline-block;
-}
+.headerstyle { 
+    width: 250px; 
+    height: 150px; 
+    background-color: rgb(77, 70, 70); 
+    margin-bottom: 50px; 
+    background-image: url(spore-plants-header-960x350.jpg)
