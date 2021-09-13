@@ -1,8 +1,9 @@
 header {
+    float: left;
     width: 90%;
     background-color: rgb(47, 107, 84);
     height: 40%;
 }
-aside {
-    float: left;
+.contacts {
+    display: inline-block;
 }
