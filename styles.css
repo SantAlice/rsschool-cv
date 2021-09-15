@@ -1,6 +1,76 @@
-.headerstyle { 
-    width: 250px; 
-    height: 150px; 
-    background-color: rgb(77, 70, 70); 
-    margin-bottom: 50px; 
-    background-image: url(spore-plants-header-960x350.jpg)
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+	width: 1200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+	background: #222328;
+	font-family: 'Open Sans', sans-serif;
+}
+
+main {
+	background: #fff;
+	display: block;
+}
+
+header {
+	color: #fff;
+	background: url(header_bg.jpg), rgba(255,255,255,0.4);
+	background-blend-mode: #000;
+	display: flex;
+    height: 100px;
+}
+
+
+header .title {
+	margin-top: 50px;
+	margin-left: 20px;
+	float: left;
+}
+
+header .title h2 {
+	color: #fff;
+	font-size: 36px;
+}
+
+header .title h3 {
+	color: #fff;
+	font-size: ;
+}
+
+.avatar {
+	margin-left: 20px;
+	height: 150px;
+	width: 150px;
+	margin-top: 25px;
+	background: url(static/img/avatar.jpg) 35% 15% no-repeat;
+	background-size: 150px auto;
+	border-radius: 100%;
+	border: 3px solid transparent;
+	border-color: #fff;
+}
+
+
+aside {
+    background: #181818;
+    width: 400px;
+    height: auto;
+    padding: 20px;
+    padding-top: 110px;
+    color: #fff;
+    border-right: 2px solid #4d4d4d;
+}
+
+aside .about {
+	margin-top: 90px;
+}
+
+
+content {
+    float: left;
+    margin-left: 300px;
+    margin-top: 20px;
+
+}
